@@ -1,4 +1,4 @@
-# QuickWash
+# Ping Pong Game - Web
 
 | **Status** <img width="100" height="1"> | : | Stable |
 | :--- | :---: | :--- |
